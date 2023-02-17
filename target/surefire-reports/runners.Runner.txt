@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: runners.Runner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.501 s <<< FAILURE! - in runners.Runner
+Validate the main content of the Pagination Page(TechGlobal Pagination Page Main Content)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.NullPointerException
+
+Validate the Pagination Page Next/Previous buttons(TechGlobal Pagination Page Main Content)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+

@@ -1,0 +1,9 @@
+/Users/ozanatc/IdeaProjects/cucumber_first_project_5/src/test/java/utils/Driver.java
+/Users/ozanatc/IdeaProjects/cucumber_first_project_5/src/test/java/runners/Runner.java
+/Users/ozanatc/IdeaProjects/cucumber_first_project_5/src/test/java/pages/TechGlobalBasePage.java
+/Users/ozanatc/IdeaProjects/cucumber_first_project_5/src/test/java/pages/TechGlobalPaginationPage.java
+/Users/ozanatc/IdeaProjects/cucumber_first_project_5/src/test/java/steps/TechGlobalPaginationSteps.java
+/Users/ozanatc/IdeaProjects/cucumber_first_project_5/src/test/java/steps/Hook.java
+/Users/ozanatc/IdeaProjects/cucumber_first_project_5/src/test/java/pages/TechGlobalFrontendPage.java
+/Users/ozanatc/IdeaProjects/cucumber_first_project_5/src/test/java/utils/ConfigReader.java
+/Users/ozanatc/IdeaProjects/cucumber_first_project_5/src/test/java/utils/Waiter.java
